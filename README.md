@@ -1,4 +1,4 @@
-Hi! Welcome to my profile, I'm trying to making it bigger, so have a good look ^^
- - Full of great ideas so I'm trying to work one after another
- - Obsessed by astronomy
+Hi! Welcome to my profile, I'm trying to make it growth, so feel free to have look ^^
+ - I'm full of great ideas and I'm trying to work on them all
+ - Obsessed with astronomy
  - Current studying computer science 
