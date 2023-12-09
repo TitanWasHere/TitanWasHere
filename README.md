@@ -1,9 +1,10 @@
-# Hi there 👋 I'm Andrea Gravili
+![image](https://github.com/TitanWasHere/TitanWasHere/assets/48596932/bc0c6e8b-1b52-4c09-87f1-2e0cae32a3e4)# Hi there 👋 I'm Andrea Gravili
 Welcome to my GitHub profile! I'm a software developer and a computer science student at the University of Trento. 
 
 <!-- about me-->
 ## 📖 About me
 - 🔭 Check on my **[website](https://andreagravili.vercel.app/)**!
+- 📫 Mail me at: **[andrea.gravili8@gmail.com](mailto:andrea.gravili8@gmail.com)**
 - 🌱 I’m currently learning **React** and **ROS**
 <!-- Fun fact i love music and astronomy, but put some emoji-->
 - ⚡ Fun fact: I love **music🎶** and **astronomy🌌**
