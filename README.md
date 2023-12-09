@@ -1,4 +1,4 @@
-![image](https://github.com/TitanWasHere/TitanWasHere/assets/48596932/bc0c6e8b-1b52-4c09-87f1-2e0cae32a3e4)# Hi there 👋 I'm Andrea Gravili
+# Hi there 👋 I'm Andrea Gravili
 Welcome to my GitHub profile! I'm a software developer and a computer science student at the University of Trento. 
 
 <!-- about me-->
