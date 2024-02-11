@@ -56,5 +56,5 @@ Welcome to my GitHub profile! I'm a software developer and a computer science st
 
 <!-- stats -->
 ## 📊 Stats
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=titanwashere&show_icons=true&theme=dark)
+<!--![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=titanwashere&show_icons=true&theme=dark)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titanwashere&layout=compact&theme=dark)
