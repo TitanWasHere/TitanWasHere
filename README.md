@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a software developer and a computer science st
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25px"/>
 <!-- Vercel-->
 <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25px"/>
-
+<img alt="ROS" src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" height="25px"/>
 </p>
 
 <!-- stats -->
