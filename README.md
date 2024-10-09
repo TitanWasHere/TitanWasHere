@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Andrea Gravili
-Welcome to my GitHub profile! I'm a software developer and a computer science student at the University of Trento. 
+Welcome to my GitHub profile! I'm a software developer and an MSc in Artificial Intelligence and robotics student at Sapienza, university of Rome. 
 
 <!-- about me-->
 ## 📖 About me
