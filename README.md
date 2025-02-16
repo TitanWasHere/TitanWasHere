@@ -5,9 +5,6 @@ Welcome to my GitHub profile! I'm a software developer and an MSc in Artificial 
 ## 📖 About me
 - 🔭 Check on my **[website](https://andreagravili.vercel.app/)**!
 - 📫 Mail me at: **[andrea.gravili8@gmail.com](mailto:andrea.gravili8@gmail.com)**
-- 🌱 I’m currently learning **React** and **ROS**
-<!-- Fun fact i love music and astronomy, but put some emoji-->
-- ⚡ Fun fact: I love **music🎶** and **astronomy🌌**
 
 ## 🚀 Technologies & Tools:
 <p>
