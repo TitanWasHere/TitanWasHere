@@ -1,5 +1,5 @@
-# Hi there 👋 I'm Andrea Gravili
-Welcome to my GitHub profile! I'm a software developer and an MSc in Artificial Intelligence and robotics student at Sapienza, university of Rome. 
+# Hi there, I'm Andrea Gravili
+Welcome to my GitHub profile! I'm a software developer and an MSc in Artificial Intelligence and Robotics student at Sapienza, University of Rome. 
 
 <!-- about me-->
 ## 📖 About me
