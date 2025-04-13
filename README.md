@@ -59,4 +59,4 @@ Welcome to my GitHub profile! I'm a software developer and an MSc in Artificial 
 <!-- stats -->
 ## 📊 Stats
 <!--![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=titanwashere&show_icons=true&theme=dark)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titanwashere&layout=compact&theme=dark&hide=cmake,makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titanwashere&layout=compact&theme=dark&hide=cmake,makefile,jupyter%20notebook)
